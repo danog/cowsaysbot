@@ -48,7 +48,7 @@ To use simply type
 @cowsaysbot Text
 
 in any chat and select the animal you want :)
-Written by Daniil Gentili (@danogentili, https://daniil.it). Check out my other bots: @video_dl_bot, @mklwp_bot, @caption_ai_bot, @cowsaysbot, @cowthinksbot, @figletsbot, @lolcatzbot, @filtersbot, @id3bot, @pwrtelegrambot!.
+Written by Daniil Gentili (@danogentili, https://daniil.it). Check out my other bots: @video_dl_bot, @mklwp_bot, @caption_ai_bot, @cowsaysbot, @cowthinksbot, @figletsbot, @lolcatzbot, @filtersbot, @id3bot, @pwrtelegrambot, @audiokeychainbot!.
 [Source code](http://github.com/danog/cowsaysbot)', 'parse_mode' => 'Markdown' ] ];
 	} else {
 		foreach (glob("/usr/share/cowsay/cows/*") as $filter) {

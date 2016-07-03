@@ -16,7 +16,7 @@ try {
     $telegram = new Longman\TelegramBot\Telegram($API_KEY, $BOT_NAME);
 
     //// Enable MySQL
-    $telegram->enableMySQL($mysql_credentials);
+//    $telegram->enableMySQL($mysql_credentials);
     $telegram->enableAdmins(['101374607']);
     //// Enable MySQL with table prefix
     //$telegram->enableMySQL($mysql_credentials, $BOT_NAME . '_');
